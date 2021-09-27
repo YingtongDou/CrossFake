@@ -1,0 +1,17 @@
+NIH harnesses AI for COVID-19 diagnosis, treatment, and monitoring
+
+Collaborative network to enlist medical imaging and clinical data sciences to reveal unique features of COVID-19.
+
+The National Institutes of Health has launched the Medical Imaging and Data Resource Center (MIDRC), an ambitious effort that will harness the power of artificial intelligence and medical imaging to fight COVID-19. The multi-institutional collaboration, led by the National Institute of Biomedical Imaging and Bioengineering (NIBIB), part of NIH, will create new tools that physicians can use for early detection and personalized therapies for COVID-19 patients.
+
+“This program is particularly exciting because it will give us new ways to rapidly turn scientific findings into practical imaging tools that benefit COVID-19 patients,” said Bruce J. Tromberg, Ph.D., NIBIB Director.  “It unites leaders in medical imaging and artificial intelligence from academia, professional societies, industry, and government to take on this important challenge.”
+
+The features of infected lungs and hearts seen on medical images can help assess disease severity, predict response to treatment, and improve patient outcomes. However, a major challenge is to rapidly and accurately identify these signatures and evaluate this information in combination with many other  clinical symptoms and tests. The MIDRC goals are to lead the development and implementation of new diagnostics, including machine learning algorithms, that will allow rapid and accurate assessment of disease status and help physicians optimize patient treatment.
+
+“This effort will gather a large repository of COVID-19 chest images,” explained Guoying Liu, Ph.D., the NIBIB scientific program lead on this effort, “allowing researchers to evaluate both lung and cardiac tissue data, ask critical research questions, and develop predictive COVID-19 imaging signatures that can be delivered to healthcare providers.”
+
+Maryellen L. Giger, PhD, the A.N. Pritzker Professor of Radiology, Committee on Medical Physics at the University of Chicago, is leading the effort, which includes co-Investigators Etta Pisano, MD, and Michael Tilkin, MS, from the American College of Radiology (ACR), Curtis Langlotz, MD, PhD, and Adam Flanders, MD, representing the Radiological Society of North America (RSNA), and Paul Kinahan, PhD, from the American Association of Physicists in Medicine (AAPM).
+
+“This major initiative responds to the international imaging community’s expressed unmet need for a secure technological network to enable the development and ethical application of artificial intelligence to make the best medical decisions for COVID-19 patients,” added Krishna Kandarpa, M.D., Ph.D.,  director of research sciences and strategic directions at NIBIB. “Eventually, the approaches developed could benefit other conditions as well.”
+
+The MIDRC will facilitate rapid and flexible collection, analysis, and dissemination of imaging and associated clinical data. Collaboration among the ACR, RSNA, and AAPM is based on each organization’s unique and complementary expertise within the medical imaging community, and each organization’s dedication to imaging data quality, security, access, and sustainability.

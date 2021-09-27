@@ -1,0 +1,26 @@
+Study to determine incidence of novel coronavirus infection in U.S. children begins
+
+NIH-funded study also will ascertain percentage of infected children who develop COVID-19.
+
+A study to help determine the rate of novel coronavirus infection in children and their family members in the United States has begun enrolling participants. The study, called Human Epidemiology and Response to SARS-CoV-2 (HEROS), also will help determine what percentage of children infected with SARS-CoV-2, the virus that causes COVID-19, develop symptoms of the disease. In addition, the HEROS study will examine whether rates of SARS-CoV-2 infection differ between children who have asthma or other allergic conditions and children who do not. The National Institute of Allergy and Infectious Diseases (NIAID), part of the National Institutes of Health, is sponsoring and funding the HEROS study.
+
+“One interesting feature of this novel coronavirus pandemic is that very few children have become sick with COVID-19 compared to adults,” said NIAID Director Anthony S. Fauci, M.D. “Is this because children are resistant to infection with SARS-CoV-2, or because they are infected but do not develop symptoms? The HEROS study will help us begin to answer these and other key questions.”
+
+The HEROS study team will rapidly enroll 6,000 people from 2,000 U.S. families already participating in NIH-funded pediatric research studies in 11 cities. Study participants will include both healthy children and children with asthma or other allergic conditions. The study team will prospectively follow these children and their families for six months to determine who gets infected with SARS-CoV-2, whether the virus is transmitted to other family members, and which family members with the virus develop COVID-19.
+
+Leading the HEROS study is Tina V. Hartert, M.D., M.P.H. Dr. Hartert is director of the Center for Asthma and Environmental Sciences Research, vice president for translational research, the Lulu H. Owen Chair in Medicine and a professor of medicine at the Vanderbilt University School of Medicine in Nashville.
+
+“So far, data on the extent of SARS-CoV-2 infection in the U.S. population have been limited to people who physically interact with the healthcare system: those who are tested―especially those who test positive―and those with severe disease,” said Dr. Hartert. “These data provide real-time guidance in a setting of limited test availability, but they don’t enable us to understand the full extent of SARS-CoV-2 infection in the entire population. The HEROS study will help fill this knowledge gap and inform public health interventions.”
+
+Preliminary evidence suggests that having an allergic condition paradoxically may reduce a person’s susceptibility to SARS-CoV-2 infection and severe COVID-19 disease. A NIAID-funded study(link is external) recently examined upper and lower airway cells for the expression of ACE2, the gene that codes for the receptor that the coronavirus uses to infect cells. ACE2 expression is necessary for a cell to make this receptor, but additional steps also are involved. In both children and adults, respiratory allergy, asthma and controlled allergen exposure were associated with significantly reduced ACE2 expression. The expression of ACE2 was lowest in people with high levels of both asthma and sensitivity to allergens.
+
+The HEROS study will further clarify whether reduced ACE2 gene expression in airway cells of children with allergic diseases correlates with a lower rate of SARS-CoV-2 infection and COVID-19. 
+
+The study will be conducted completely remotely. Every two weeks, a caregiver in participating families will collect nasal swabs from the child who is the primary study participant and all other family members who are enrolled in the study, and will mail the samples to a laboratory for analysis. On the same day as the nasal swab, the caregiver will complete online questionnaires about each participant’s current symptoms, social distancing practices, recent activities outside the home, and recent exposure to people who are sick. 
+
+In addition, if any member of the household develops symptoms of a viral illness, the caregiver will fill out another online questionnaire designed to determine the likelihood that the illness is COVID-19. If COVID-19 is likely, the caregiver will collect nasal swabs from all study participants and a stool sample from the symptomatic participant within 24 hours.
+
+Laboratory analyses of nasal swabs will test for SARS-CoV-2 and assess gene expression in the collected airway-surface cells. Investigators hope that these gene expression studies will reveal patterns that correlate with higher or lower risk of infection, COVID-19 symptom development and SARS-CoV-2 transmission.
+
+A caregiver also will collect a blood sample from each study participant two weeks, 18 weeks and 24 weeks after enrollment as well as three weeks after the family’s first likely case of COVID-19, if there is one. The blood will be collected using a new, nearly painless device that extracts a small quantity of blood through the surface of the skin. The blood will be analyzed for antibodies to SARS-CoV-2 once an appropriate antibody test becomes available.
+

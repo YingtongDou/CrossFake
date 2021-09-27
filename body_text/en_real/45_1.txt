@@ -1,0 +1,11 @@
+Placenta lacks major molecules used by SARS-CoV-2 virus to cause infection
+
+NIH study may help explain why the virus has rarely been found in fetuses or newborns of women with COVID-19.
+
+The placental membranes that contain the fetus and amniotic fluid lack the messenger RNA (mRNA) molecule required to manufacture the ACE2 receptor, the main cell surface receptor used by the SARS-CoV-2 virus to cause infection, according to a study by researchers at the National Institutes of Health. Their findings appear in the journal eLife.
+
+These placental tissues also lack mRNA needed to make an enzyme, called TMPRSS2, that SARS-CoV-2 uses to enter a cell. Both the receptor and enzyme are present in only miniscule amounts in the placenta, suggesting a possible explanation for why SARS-CoV-2 has only rarely been found in fetuses or newborns of women infected with the virus, according to the study authors.
+
+The researchers, led by Roberto Romero, M.D., chief of the Perinatology Research Branch at NIH’s Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD), found that the placenta contains molecules that previous studies have suggested as potential routes for SARS-CoV-2 infection, including the CD147 receptor and the enzymes cathepsin L and Furin. They also detected in placental and membrane tissue a type of macrophage (immune cell) that has the ACE2 receptor. However, they noted that there is little evidence showing that infected macrophages could spread the SARS-CoV-2 virus to the placenta, membranes and fetus in normal pregnancy.
+
+Finally, the researchers found that the placenta contains large amounts of receptors used for infection by  Zika virus(link is external) and cytomegalovirus(link is external), which are both known to carry serious health risks when passed from a women to her fetus during pregnancy.

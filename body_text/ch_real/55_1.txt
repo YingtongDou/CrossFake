@@ -1,0 +1,93 @@
+早在2月16日，Facebook上一张名为“新闻：大麻可杀死冠状病毒”的图片引起了人们注意。图片没有显示任何信息来源，只是截图的左上角有“LIVE”字样，在标题下方，标题写着：“科学家惊讶地发现大麻能杀死冠状病毒。”
+
+在接下来的2月18日，谣言破灭，世界卫生组织（WHO）明确表示“仍然没有任何药物可来预防或治疗这种新型的冠状病毒（2019-nCoV）”，更别说这种毫无根据的信息。然而，大麻中的成份已被证实对多种疾病有疗效及缓解作用，那么大麻是否具有治疗新型冠状病毒肺炎的潜力？
+
+当前研究现状
+
+目前国内对于大麻或大麻素成份的研究相对较少，而国外的相关报道主要涉及癫痫、肿瘤、多发性硬化症、炎症、疼痛等方面。一些研究发现大麻二酚（CBD）在动物试验中对肺部损伤具有免疫抑制和抗炎的作用，且能够改善肺功能；还有部分报道显示CBD及其衍生物对呼吸道疾病有一定的治疗作用，如哮喘、肺纤维化、慢性阻塞性肺疾病等；其中多篇文献提到大麻素受体与缓解肺纤维化、慢阻肺症状有关。
+
+
+1、免疫调节和抗炎作用
+
+
+2006年《Inhibition of an Equilibrative Nucleoside Transporter by Cannabidiol: A Mechanism of Cannabinoid Immunosuppression》中提到低剂量的CBD在小鼠体内降低了脂多糖LPS导致的促炎性因子TNF-α的产生，其抑制腺苷摄取从而增强腺苷信号的传导能力，缓解炎症反应。
+
+
+
+2012年《Cannabidiol, a Non-Psychotropic Plant-Derived Cannabinoid, Decreases Inflammation in a Murine Model of Acute Lung Injury: Role for the Adenosine A(2A) Receptor》研究了CBD在急性肺损伤小鼠模型中的抗炎作用。结果显示，在LPS诱导急性肺损伤前给予单次剂量CBD（20mg/kg）可减少白细胞（尤其是中性粒细胞）向肺部的迁移，降低支气管肺泡灌洗液中白蛋白的浓度，肺组织中的髓过氧化物酶活性，以及促炎性细胞因子（TNF和IL-6）和趋化因子（MCP-1和MIP-2）的产生。研究表明，CBD在急性肺损伤小鼠模型中具有抗炎作用，且可能与细胞外腺苷浓度增加和腺苷A（2A）受体的信号传导有关。
+
+
+
+2013年《Cannabidiol (CBD) Enhances Lipopolysaccharide (LPS)-induced Pulmonary Inflammation in C57BL/6 Mice》中指出大麻二酚的免疫调节作用会随着浓度或免疫刺激的类型或大小而变化。与过往研究不同，该研究发现口服CBD可增强C57BL/6小鼠的LPS诱导的肺部炎症反应，通过增强炎性细胞浸润和促炎性细胞因子mRNA（包括肿瘤坏死因子-α（Tnfa），白介素IL-5和Il23，粒细胞集落刺激因子Gcsf）的产生实现。与过往其他研究采用鼻内滴注或腹膜内注射不同，本研究采用口腔管饲，相对鼻内或腹膜内给药对肺的CBD生物利用度低。研究表明，CBD通常具有抗炎和免疫抑制作用，但在某些条件下会增强炎性细胞因子的产生，加剧炎症反应。
+
+
+
+2015年《Cannabidiol Improves Lung Function and Inflammation in Mice Submitted to LPS-induced Acute Lung Injury》研究了CBD对脂多糖LPS诱发的小鼠急性肺损伤和炎症的治疗作用。LPS诱导小鼠肺部炎症6h时，给予小鼠腹腔注射CBD（20mg/kg、80mg/kg），诱发炎症24h后，对肺动力学和炎症情况进行评估。结果显示CBD降低了总肺阻力和肺弹性，降低了白细胞向肺部的迁移，降低肺组织中的髓过氧化物酶活性，支气管肺泡灌洗液上清中蛋白质的浓度以及促炎性细胞因子（TNF和IL-6）和趋化因子（MCP-1和MIP-2）的产生。表明CBD具有有效的抗炎症作用，并且改善了肺功能。
+
+
+
+2019年《大麻二酚对应激大鼠肺部损伤的预防保护作用》研究中：病理切片HE染色结果显示，中、高剂量的CBD预防性给药能减少应激产生的肺部损伤；ELISA检测结果显示，中、高剂量的CBD能显著降低模型组大鼠血清中CORT、TNF-α及IL-1β的水平（p＜0.05），且抗应激激素升高水平和抗炎水平呈现剂量依赖性。表明CBD可显著减轻大鼠记性应激产生的肺组织损伤程度，其机制可能是通过抑制HPA轴的激活，并下调TNF-α和IL-1β的表达而保护应激大鼠的肺脏。（广州药科大学学报）
+
+
+
+2、对过敏性哮喘作用
+
+2018年《Cannabidiol reduces airway inflammation and fibrosis in experimental allergic asthma》等研究CBD对Balb/c小鼠过敏性哮喘的作用，结果显示无论剂量如何，CBD治疗都能够降低气道的高反应性，而肺静态顺应性仅在高剂量时降低。这些结果伴随着气道和肺泡隔中胶原纤维含量的减少以及支气管肺泡灌洗液和肺匀浆中炎症相关标志物的减少。表明CBD治疗减少了过敏性哮喘模型中的炎症反应和气道重塑，其作用机制可能是由CB1 / CB2信号传导介导的。
+
+
+
+3、对肺纤维化、慢性阻塞性肺疾病的作用
+
+2017年《Activation of cannabinoid receptor type 2 by JWH133 alleviates bleomycin-induced pulmonary fibrosis in mice》研究了大麻素受体2在体外和体内对肺纤维化的作用。结果显示，在TGF-β1刺激的肺成纤维细胞中，由大麻素受体2激动剂JWH133预处理不仅降低了肺成纤维细胞中胶原蛋白I和α-SMA升高的水平，而且抑制了成纤维细胞的增殖和迁移。肺组织学结果显示，JWH133治疗可抑制炎症反应和细胞外胶原沉积。表明在体外和体内，JWH133都降低了血清TGF-β1的纤维化细胞因子水平，并抑制了TGF-β1/ Smad2途径，通过药理学方法激活大麻素受体2是肺纤维化的潜在策略。（首都医科大学）
+
+
+2015年《Protection from Radiation-Induced Pulmonary Fibrosis by Peripheral Targeting of Cannabinoid Receptor-1》使用辐射诱发的肺纤维化（RIF）小鼠模型评估了大麻素受体1（CB1）与肺纤维化的关系。结果显示，基因敲除或CB1拮抗剂AM6545药理抑制显著减轻或延迟了肺部炎症和纤维化，并提高了动物存活率；表明CB1信号传导在放射诱导的肺部炎症和纤维化的发展中起着关键的病理作用。
+
+
+
+2015年《Cannabinoid effects on ventilation and breathlessness a pilot study of efficacy and safety》研究5名健康受试者和4名慢阻肺患者两天的双盲随机安慰剂对照试验。受试者舌下给予大麻提取物（最多10.8mgTHC和10mgCBD）或安慰剂。结果显示，健康受试者和COPD环视着在治疗前后呼吸VAS评分和呼吸测量均无差异。给药后，大麻素治疗的COPD患者比安慰剂治疗患者选择呼吸困难至窘迫的频率更低。表明大麻素缓解了COPD患者的呼吸困难，而没有改变传统的呼吸困难等级（VAS）。
+
+
+
+综上所述，国内外暂无权威证据表明大麻或大麻素成份（包括CBD）对新冠病毒肺炎有治疗作用。目前有研究报道CBD具有免疫抑制和抗炎作用，能够通过缓解炎症反应改善肺部功能，并且对哮喘、肺纤维化、慢阻肺具有一定的治疗和症状缓解作用，但研究仍处于机制探究和动物试验阶段，尚无临床应用报道。
+
+
+
+美国制药公司Kali-Extracts Inc（USOTC：KALY）声称已开发出用于治疗冠状病毒症状的大麻疗法。
+
+
+1、公司简介
+
+
+Kali-Extracts是一家位于德克萨斯州的制药公司，除了自身和通过合作伙伴关系开发药品、健康产品之外，还利用获得专利的大麻提取工艺盈利。其关键专利与2018年11月收购的NCM Biotech公司有关，NCM Biotech曾经是此专利的专利权人。
+
+
+据报道，公司2019年的年销售额约为100万美元，主要涉及CBD提取业务和CBD糖果业务（软糖和口香糖）。同时，KALY指出，为巩固其业务结构，公司将把重点放在大麻生物制药技术上，分拆非制药业务资产。2020年3月13日，Puration, Inc. (USOTC: PURA)宣布，以500万美元债务融资的形式收购KALY的Hemp4mula CBD糖果业务。此外，KALY还透露，其获得美国专利的大麻提取工艺价值为5000万美元，已与尚未披露的第三方就可能出售的CBD提取业务进行了讨论。
+
+
+2、产品NCMB-1
+
+高盛（Goldman Sachs）的研报里曾指出“Kali-Extracts生产的大麻提取物可能优于Epidiolex制造商GW Pharmaceuticals的提取物。”KALY还为该CBD制剂NCMB-1申请了商标名为RespRx的商标，声称可潜在治疗慢性阻塞性肺疾病（COPD）和其他类似呼吸系统疾病，包括冠状病毒症状。
+
+
+在公司官网上检索到一篇研究NCMB-1对非洲绿猴（AGM）肺功能影响的报告。试验于2018年7-8月进行，研究人员分别将NCMB-1稀释成1倍，5倍和25倍，然后将16只雄性AGM均分为四组（其中一组为空白对照组），持续用药2周。研究数据表明，对于患有中度肺纤维化的AGM，5倍稀释的NCMB-1可显著改善肺吸入功能（部分试验结果图表见下）；试验观察到NCMB-1可能具有潜在的降压副作用。因此得出结论，NCMB-1可能对患有吸入功能障碍的肺疾患者具有临床潜力，同时不良反应小。
+
+
+值得注意的是，该项研究并未发表于任何学术期刊中。高盛的研报也仅凭以上研究数据推测NCMB-1可能优于GW公司产品。
+
+
+此外，检索到2020年1月发表在《大麻研究杂志》上的一篇文章《Effects of cannabis oil extract on immune response gene expression in human small airway epithelial cells (HSAEpC): implication for chronic obstructive pulmonary disease (COPD)》，其研究中使用的为NCM Biotech提供的大麻油提取物，其大麻素总量约为95 mg/ml。其中含有约55 mg/ml的CBD和CBDA，40 mg/ml的THC和THCA。
+
+该研究评估了大麻油提取物对人类气道上皮细胞(HSAEpC)中84 Th2和相关免疫反应基因表达的影响。结果显示，大麻油提取物可能会影响气道上皮细胞基因的表达，而这些基因调控COPD的促炎或Th1进程。试验结果为进一步研究提供了基础，并促进了大麻油提取物对肺功能影响的体内研究。
+
+
+3、专利情况
+
+Kali-Extracts的一份声明称：“结合现有研究以及下一步的研究进展，该公司已针对其配方提出了一项新的专利申请。”
+
+然而，在欧洲专利局使用Kali-Extracts/KALY和NCM Biotech作为专利权人检索，无相关专利；且以他们CBD提取工艺专利的专利权人Frederick R. Ferri进行检索，也无其他结果。
+
+其关于CBD提取工艺的专利《Method and apparatus for processing herbaceous plant materials including the cannabis plant》，专利号为US20140330030，优先权日为2013年5月2日，法律状态有权。
+
+
+该专利旨在保护从植物材料中提取液体形式的大麻素相关方法和设备。工艺步骤包括：冷冻植物材料→加热→干燥→研磨→在酒精中浸泡→冷冻→摇晃→过滤→旋转蒸发。

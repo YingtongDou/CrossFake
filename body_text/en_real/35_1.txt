@@ -1,0 +1,31 @@
+Microglia in the olfactory bulb have a nose for protecting the brain from infection
+
+Researchers at the National Institute of Neurological Disorders and Stroke (NINDS), a part of the National Institutes of Health, have identified a specific, front-line defense that limits the infection to the olfactory bulb and protects the neurons of the olfactory bulb from damage due to the infection. Neurons in the nose respond to inhaled odors and send this information to a region of the brain referred to as the olfactory bulb. Although the location of nasal neurons and their exposure to the outside environment make them an easy target for infection by airborne viruses, viral respiratory infections rarely make their way from the olfactory bulb to the rest of the brain, where they could cause potentially fatal encephalitis. The study was published in Science Immunology.
+
+Taking advantage of special viruses that can be tracked with fluorescent microscopy, the researchers led by Dorian McGavern, Ph.D., senior investigator at NINDS, found that a viral infection that started in the nose was halted right before it could spread from the olfactory bulb to the rest of the central nervous system.
+
+“Airborne viruses challenge our immune system all the time, but rarely do we see viral infections leading to neurological conditions,” said Dr. McGavern. “This means that the immune system within this area has to be remarkably good at protecting the brain.”
+
+Additional experiments showed that microglia, immune cells within the central nervous system, took on an underappreciated role of helping the immune system recognize the virus and did so in a way that limited the damage to neurons themselves. This sparing of neurons is critical, because unlike cells in most other tissues, most neuronal populations do not come back.
+
+Because of this, the central nervous system has evolved to include several defense mechanisms designed to keep pathogens out. However, when airborne viruses are inhaled, they travel through the nasal passages and interact with a tissue called the olfactory epithelium, which is responsible for our sense of smell. Neurons at the edge of the olfactory system extend small projections through the bone lining the nasal cavity. These projections enter the brain, giving it access to odors present in the air. Neurons in the olfactory epithelium also offer an easy way for viruses to bypass traditional central nervous system barriers by providing a direct a pathway to the brain. 
+
+“If a virus infects the processes of neurons that dangle within the airway, there is a chance for this virus to enter the brain, and ultimately cause encephalitis or meningitis,” said Dr. McGavern. “We are interested in understanding immune responses that develop at the interface between nasal olfactory neurons, which end in the olfactory bulb, and the rest of the brain.”
+
+Dr. McGavern’s team was able to show that CD8 T cells, which are part of the immune system responsible for controlling viruses, are very important in protecting the brain after infection of nasal tissue. Using advanced microscopy, his group watched in real time how CD8 T cells protected the brain from a nasal virus infection.
+
+Interestingly, the CD8 T cells did not appear to interact directly with neurons, the predominately infected cell population. They instead engaged microglia, which are central nervous system immune cells that act a bit like garbage collectors by clearing cellular debris and dead cell material. When a viral infection occurs, the microglia appear to take up virus material from the surrounding environment and present it to the immune system as though they had become infected.
+
+In this way, infected olfactory neurons can “hand off” virus particles to microglia, which were then detected by the T cells. The T cells then respond by releasing antiviral molecules that clear the virus from neurons in a way that does not kill the cells. Because microglia are a renewable cell type, this type of interaction makes sense from an evolutionary standpoint.
+
+“The immune system has developed strategies to favor the preservation of neurons at all costs,” said Dr. McGavern. “Here, we show that microglia can ‘take the blow’ from neurons by engaging T cells, which then allows the antiviral program to play out.”
+
+Considerable attention has been paid to respiratory viral infections of late due to the current COVID-19 pandemic. Dr. McGavern noted that, while that virus was not studied in these experiments, some of the symptoms it produces suggest that the same mechanism described here could be in play.
+
+“One of the interesting symptoms associated with infection by novel coronavirus is that many people lose their sense of smell and taste. This suggests that the virus is not only a respiratory pathogen, but likely targets or disrupts olfactory sensory neurons as well.”
+
+It is important to note that widespread infection of the olfactory sensory neurons, whether by the novel coronavirus, the virus used in this study, or any other similar virus, will likely disrupt our sense of smell. However, unlike other neurons in the central nervous system, these sensory neurons that begin in the nose and end in the brain are capable of regenerating after an infection is cleared.
+
+“The immune response we describe does not protect olfactory sensory neurons nor the sense of smell,” explained Dr. McGavern. “This is not necessarily a long-term issue, because those sensory neurons can be replaced once the virus is dealt with. What is critical is to protect the brain and central nervous system from encephalitis or meningitis—our sense of smell can often be repaired over time.”
+
+Dr. McGavern continued by saying that given the importance of microglia in stimulating the antiviral response, factors that can lead to their depletion or loss of function could increase susceptibility to central nervous system infection.

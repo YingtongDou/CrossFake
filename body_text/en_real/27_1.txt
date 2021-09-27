@@ -1,0 +1,22 @@
+NIH clinical trial of hydroxychloroquine, a potential therapy for COVID-19, begins
+
+A clinical trial to evaluate the safety and effectiveness of hydroxychloroquine for the treatment of adults hospitalized with coronavirus disease 2019 (COVID-19) has begun, with the first participants now enrolled in Tennessee.
+
+The Outcomes Related to COVID-19 treated with hydroxychloroquine among In-patients with symptomatic Disease study, or ORCHID Study, is being conducted by the Prevention and Early Treatment of Acute Lung Injury (PETAL) Clinical Trials Network of the National Heart, Lung, and Blood Institute (NHLBI), part of the National Institutes of Health.
+
+The first participants have enrolled in the trial at Vanderbilt University Medical Center, Nashville, one of dozens of centers in the PETAL Network. The blinded, placebo-controlled randomized clinical trial aims to enroll more than 500 adults who are currently hospitalized with COVID-19 or in an emergency department with anticipated hospitalization. All participants in the study will continue to receive clinical care as indicated for their condition.  Those randomized to the experimental intervention will also receive hydroxychloroquine.
+
+“Effective therapies for COVID-19 are urgently needed,” said James P. Kiley, director, Division of Lung Diseases, NHLBI.  “Hydroxychloroquine has showed promise in a lab setting against SARS-CoV-2, the virus that causes COVID-19 and preliminary reports suggest potential efficacy in small studies with patients. However, we really need clinical trial data to determine whether hydroxychloroquine is effective and safe in treating COVID-19.”
+
+While COVID-19 usually presents as an acute respiratory infectious illness, it can damage multiple organ systems, including heart, lung, and blood. Most adults with COVID-19 experience fever, cough, and fatigue and then recover within one to three weeks. However, some develop severe illness, typically manifesting as pneumonia and respiratory failure, with continued progression to acute respiratory distress syndrome and death. Currently, no therapies have been demonstrated to prevent the progression of COVID-19 to severe illness, but several medicines available in the United States have been proposed as potential therapies.
+
+Hydroxychloroquine is used to treat malaria and rheumatoid conditions such as arthritis.  In various studies, the drug has demonstrated antiviral activity, an ability to modify the activity of the immune system, and has an established safety profile at appropriate doses, leading to the hypothesis that it may also be useful in the treatment of COVID-19. The drug is not without risks as even short term use can cause cardiac arrythmias, seizures, dermatological reactions, and hypoglycemia.
+
+“Many U.S. hospitals are currently using hydroxychloroquine as first-line therapy for hospitalized patients with COVID-19 despite extremely limited clinical data supporting its effectiveness,” said Wesley Self, M.D., M.P.H., emergency medicine physician at Vanderbilt University Medical Center and PETAL Clinical Trials Network investigator leading the ORCHID trial.  “Thus, data on hydroxychloroquine for the treatment of COVID-19 are urgently needed to inform clinical practice.”
+
+COVID-19 cases were first identified in December 2019 in Wuhan, Hubei Province, China. As of April 8, 2020, the World Health Organization (WHO)(link is external) has reported more than 1.3 million cases of COVID-19 and more than 79,000 deaths worldwide, and the Centers for Disease Control and Prevention(link is external) has reported more than 395,000 confirmed COVID-19 cases and 12,700 deaths in the United States.  
+
+ORCHID participants will be randomly assigned to receive hydroxychloroquine 400 mg twice daily for two doses (day one), then 200 mg twice daily for the subsequent eight doses (days two to five) or a placebo twice daily for five days.
+
+NIH also recently launched a trial to study Remdesivir as a possible treatment for COVID-19. That clinical trial is sponsored by the National Institute of Allergy and Infectious Diseases (NIAID) [NCT04280705]. These two trials will provide data on the effectiveness and safety of each agent versus placebo in the urgent race to find effective therapies for treating COVID-19.
+

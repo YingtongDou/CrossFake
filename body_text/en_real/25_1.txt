@@ -1,0 +1,14 @@
+NIH study validates decontamination methods for re-use of N95 respirators
+
+Three methods effectively sanitized masks for limited re-use.
+
+N95 respirators can be decontaminated effectively and maintain functional integrity for up to three uses, according to National Institutes of Health scientists. N95 respirators are designed for single-use and are worn by healthcare providers to reduce exposure to airborne infectious agents, including the virus that causes COVID-19.  The study was conducted in a controlled laboratory setting, and the results were posted on a preprint server on today(link is external). The findings are not yet peer-reviewed but are being shared to assist the public health response to COVID-19. 
+
+The study investigators are with NIH’s Rocky Mountain Laboratories (RML) in Hamilton, Montana, part of the National Institute of Allergy and Infectious Diseases (NIAID). With collaborators from the University of California, Los Angeles, they tested the decontamination of small sections of N95 filter fabric that had been exposed to SARS-CoV-2, the virus that causes COVID-19.  Decontamination methods tested included vaporized hydrogen peroxide (VHP), 70-degree Celsius dry heat, ultraviolet light, and 70% ethanol spray.
+
+All four methods eliminated detectable viable virus from the N95 fabric test samples. The investigators then treated fully intact, clean respirators with the same decontamination methods to test their reuse durability. Volunteer RML employees wore the masks for two hours to determine if they maintained a proper fit and seal over the face; decontamination was repeated three times with each mask using the same procedure.
+
+The scientists found that ethanol spray damaged the integrity of the respirator’s fit and seal after two decontamination sessions and therefore do not recommend it for decontaminating N95 respirators.  UV and heat-treated respirators began showing fit and seal problems after three decontaminations — suggesting these respirators potentially could be re-used twice. The VHP-treated masks experienced no failures, suggesting they potentially could be re-used three times.
+
+The authors concluded that VHP was the most effective decontamination method, because no virus could be detected after only a 10-minute treatment. UV and dry heat were acceptable decontamination procedures as long as the methods are applied for at least 60 minutes. The authors urge anyone decontaminating an N95 respirator to check the fit and seal over the face before each re-use.
+

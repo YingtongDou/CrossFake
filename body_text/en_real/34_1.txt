@@ -1,0 +1,17 @@
+NIH halts clinical trial of hydroxychloroquine
+Study shows treatment does no harm, but provides no benefit
+
+A clinical trial to evaluate the safety and effectiveness of hydroxychloroquine for the treatment of adults hospitalized with coronavirus disease 2019 (COVID-19) has been stopped by the National Institutes of Health. A data and safety monitoring board (DSMB) met late Friday and determined that while there was no harm, the study drug was very unlikely to be beneficial to hospitalized patients with COVID-19. After its fourth interim analysis the DSMB, which regularly monitors the trial, recommended to the National Heart, Lung, and Blood Institute (NHLBI), part of NIH, to stop the study. NHLBI halted the trial immediately.
+
+The Outcomes Related to COVID-19 treated with hydroxychloroquine among In-patients with symptomatic Disease study, or ORCHID Study, was being conducted by the Prevention and Early Treatment of Acute Lung Injury (PETAL) Clinical Trials Network of NHLBI. The data from this study indicate that this drug provided no additional benefit compared to placebo control for the treatment of COVID-19 in hospitalized patients.
+
+The first participants enrolled in the trial in April at Vanderbilt University Medical Center, Nashville, Tennessee, one of dozens of centers in the PETAL Network. The blinded, placebo-controlled randomized clinical trial aimed to enroll more than 500 adults who are currently hospitalized with COVID-19 or in an emergency department with anticipated hospitalization. More than 470 were enrolled at the time of study’s closure.
+
+All participants in the study received clinical care as indicated for their condition. Those randomized to the experimental intervention had also received hydroxychloroquine. Participants in the study will now continue to receive standard of care and follow up as indicated for their condition.
+
+ORCHID participants had been randomly assigned to receive hydroxychloroquine 400 mg twice daily for two doses (day one), then 200 mg twice daily for the subsequent eight doses (days two to five) or a placebo twice daily for five days.
+
+While COVID-19 usually presents as an acute respiratory infection, it can damage multiple organ systems, including heart, lung, and blood. Most adults with COVID-19 experience fever, cough, and fatigue and then recover within one to three weeks. However, some develop severe illness, typically manifesting as pneumonia and respiratory failure, with continued progression to acute respiratory distress syndrome and death.
+
+Hydroxychloroquine is used to treat malaria and rheumatoid conditions such as arthritis. In various studies, the drug had demonstrated antiviral activity, an ability to modify the activity of the immune system, and it has an established safety profile at appropriate doses, leading to the hypothesis that it may have also been useful in the treatment of COVID-19.
+

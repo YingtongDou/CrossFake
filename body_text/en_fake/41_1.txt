@@ -1,0 +1,147 @@
+Update (1040ET): Science moves fast during an outbreak like this, and Dr. Feigl-Ding has issued a few tweets clarifying and correcting some of the information cited in the threads we included below.
+
+Eric Feigl-Ding
+@DrEricDing
+Replying to @DrEricDing
+25. QUICK FOLLOWUP: One researcher @trvrb did a BLAST search and did find the insertions existing in other related viruses. Let’s wait and see for more confirming / refuting studies to be published. https://twitter.com/trvrb/status/1223337991168380928?s=21 … https://twitter.com/trvrb/status/1223337991168380928 …
+Trevor Bedford
+@trvrb
+These short inserts do indeed exist in #nCoV2019 relative to its closest sequenced relative (BetaCoV/bat/Yunnan/RaTG13/2013, seen here https://nextstrain.org/groups/blab/sars-like-cov …). However, a simple BLAST of such short sequences shows match to a huge variety of organisms. No reason to conclude HIV. https://twitter.com/biorxivpreprint/status/1223245639296978951 …
+View image on TwitterView image on Twitter
+521
+9:49 PM - Jan 31, 2020
+Twitter Ads info and privacy
+254 people are talking about this
+Though beforehand, he acknowledged that the paper' conclusions are "bat shit" wild and need to be scrutinized by the scientific community immediately.
+23. Apparently I’m not alone thinking this paper’s conclusion is “bat-shit” wild (pardon the pun). We need to replicate this study now before the world goes mad. Let’s all pause and hold our breath please 😷. https://t.co/Vrjcn9FCm7 https://t.co/wHJIcXZ4PA
+— Dr. Eric Feigl-Ding (@DrEricDing) January 31, 2020
+The situation is fluid. Who knows what researchers will discover next?
+* * *
+Over the past few days, the mainstream press has vigorously pushed back against a theory about the origins of the coronavirus that has now infected as many as 70,000+ people in Wuhan alone (depending on whom you believe). The theory is that China obtained the coronavirus via a Canadian research program, and started molding it into a bioweapon at the Institute of Virology in Wuhan. Politifact pointed the finger at Zero Hedge, in particular, though the story was widely shared across independent-leaning media.
+The theory is that the virus, which was developed by infectious disease experts may have originated in the Wuhan-based lab of Dr. Peng Zhou, China's preeminent researcher of bat immune systems, specifically in how their immune systems adapt to the presence of viruses like coronavirus and other destructive viruses. Somehow, the virus escaped from the lab, and the Hunan fish market where the virus supposedly originated is merely a ruse.
+Now, a respected epidemiologist who recently caught flack for claiming in a twitter threat that the virus appeared to be much more contagious than initially believed is pointing out irregularities in the virus's genome that suggests it might have been genetically engineered for the purposes of a weapon, and not just any weapon but the deadliest one of all.
+In "Uncanny similarity of unique inserts in the 2019-nCoV spike protein to HIV-1 gp120 and Gag", Indian researchers are baffled by segments of the virus's RNA that have no relation to other coronaviruses like SARS, and instead appear to be closer to HIV. The virus even responds to treatment by HIV medications.
+
+For those pressed for time, here are the key findings from the paper, which first focuses on the unique nature of 2019-nCoV, and then observe four amino acid sequences in the Wuhan Coronavirus which are homologous to amino acid sequences in HIV1:
+Our phylogentic tree of full-length coronaviruses suggests that 2019-nCoV is closely related to SARS CoV [Fig1].
+
+In addition, other recent studies have linked the 2019-nCoV to SARS CoV. We therefore compared the spike glycoprotein sequences of the 2019-nCoV to that of the SARS CoV (NCBI Accession number: AY390556.1). On careful examination of the sequence alignment we found that the 2019- nCoV spike glycoprotein contains 4 insertions [Fig.2]. To further investigate if these inserts are present in any other corona virus, we performed a multiple sequence alignment of the spike glycoprotein amino acid sequences of all available coronaviruses (n=55) [refer Table S.File1] in NCBI refseq (ncbi.nlm.nih.gov) this includes one sequence of 2019-nCoV[Fig.S1]. We found that these 4 insertions [inserts 1, 2, 3 and 4] are unique to 2019-nCoV and are not present in other coronaviruses analyzed. Another group from China had documented three insertions comparing fewer spike glycoprotein sequences of coronaviruses . Another group from China had documented three insertions comparing fewer spike glycoprotein sequences of coronaviruses (Zhou et al., 2020).
+We then translated the aligned genome and found that these inserts are present in all Wuhan 2019-nCoV viruses except the 2019-nCoV virus of Bat as a host [Fig.S4]. Intrigued by the 4 highly conserved inserts unique to 2019-nCoV we wanted to understand their origin. For this purpose, we used the 2019-nCoV local alignment with each insert as query against all virus genomes and considered hits with 100% sequence coverage. Surprisingly, each of the four inserts aligned with short segments of the Human immunodeficiency Virus-1 (HIV-1) proteins. The amino acid positions of the inserts in 2019-nCoV and the corresponding residues in HIV-1 gp120 and HIV-1 Gag are shown in Table 1.
+
+The first 3 inserts (insert 1,2 and 3) aligned to short segments of amino acid residues in HIV-1 gp120. The insert 4 aligned to HIV-1 Gag. The insert 1 (6 amino acid residues) and insert 2 (6 amino acid residues) in the spike glycoprotein of 2019-nCoV are 100% identical to the residues mapped to HIV-1 gp120. The insert 3 (12 amino acid residues) in 2019- nCoV maps to HIV-1 gp120 with gaps [see Table 1]. The insert 4 (8 amino acid residues) maps to HIV-1 Gag with gaps.
+Why do the authors think the virus may be man-made? Because when looking at the above insertions which are not present in any of the closest coronavirus families, "it is quite unlikely for a virus to have acquired such unique insertions naturally in a short duration of time." Instead, they can be found in cell identification and membrane binding proteins located in the HIV genome.
+Since the S protein of 2019-nCoV shares closest ancestry with SARS GZ02, the sequence coding for spike proteins of these two viruses were compared using MultiAlin software. We found four new insertions in the protein of 2019-nCoV- “GTNGTKR” (IS1), “HKNNKS” (IS2), “GDSSSG” (IS3) and “QTNSPRRA” (IS4) (Figure 2). To our surprise, these sequence insertions were not only absent in S protein of SARS but were also not observed in any other member of the Coronaviridae family (Supplementary figure). This is startling as it is quite unlikely for a virus to have acquired such unique insertions naturally in a short duration of time.
+The insertions were observed to be present in all the genomic sequences of 2019-nCoV virus available from the recent clinical isolates. To know the source of these insertions in 2019-nCoV a local alignment was done with BLASTp using these insertions as query with all virus genome. Unexpectedly, all the insertions got aligned with Human immunodeficiency Virus-1 (HIV-1). Further analysis revealed that aligned sequences of HIV-1 with 2019-nCoV were derived from surface glycoprotein gp120 (amino acid sequence positions: 404-409, 462-467, 136-150) and from Gag protein (366-384 amino acid) (Table 1). Gag protein of HIV is involved in host membrane binding, packaging of the virus and for the formation of virus-like particles. Gp120 plays crucial role in recognizing the host cell by binding to the primary receptor CD4.This binding induces structural rearrangements in GP120, creating a high affinity binding site for a chemokine co-receptor like CXCR4 and/or CCR5.
+And some visuals, which lead the paper authors to conclude that "this structural change might have also increased the range of host cells that 2019-nCoV can infect":
+3D modelling of the protein structure displayed that these insertions are present at the binding site of 2019-nCoV. Due to the presence of gp120 motifs in 2019-nCoV spike glycoprotein at its binding domain, we propose that these motif insertions could have provided an enhanced affinity towards host cell receptors. Further, this structural change might have also increased the range of host cells that 2019-nCoV can infect. To the best of our knowledge, the function of these motifs is still not clear in HIV and need to be explored. The exchange of genetic material among the viruses is well known and such critical exchange highlights the risk and the need to investigate the relations between seemingly unrelated virus families.
+
+A good recap of the findings was provided by Dr. Feigl-Ding, who started his explanatory thread by pointing out that the transmission rate outside China has surpassed the rate inside China.
+
+Eric Feigl-Ding
+@DrEricDing
+A graph is worth a thousand letters. #coronavirus. Source: NYTimes https://www.nytimes.com/interactive/2020/world/asia/china-coronavirus-contain.html …
+View image on Twitter
+3,675
+3:12 PM - Jan 31, 2020
+Twitter Ads info and privacy
+2,942 people are talking about this
+
+Eric Feigl-Ding
+@DrEricDing
+Replying to @DrEricDing
+2) Whoa- the rate of increase ***outside of China*** is steeper than inside of China or Wuhan! Figure 1A. From: @TheLancet “Nowcasting and forecasting the potential domestic and international spread of 2019-nCoV http://bit.ly/2GF6gZP ”)
+View image on Twitter
+457
+4:33 PM - Jan 31, 2020
+Twitter Ads info and privacy
+389 people are talking about this
+
+Eric Feigl-Ding
+@DrEricDing
+ · Jan 31, 2020
+Replying to @DrEricDing
+2) Whoa- the rate of increase ***outside of China*** is steeper than inside of China or Wuhan! Figure 1A. From: @TheLancet “Nowcasting and forecasting the potential domestic and international spread of 2019-nCoV http://bit.ly/2GF6gZP ”)
+View image on Twitter
+
+Eric Feigl-Ding
+@DrEricDing
+3) “An estimated 75815 individuals have been infected in Wuhan” —> this is substantially higher than current reports or ~10k reports by China 🇨🇳 media. (75k estimate from above Lancet article)
+426
+4:35 PM - Jan 31, 2020
+Twitter Ads info and privacy
+299 people are talking about this
+
+Eric Feigl-Ding
+@DrEricDing
+Replying to @DrEricDing
+4) ...”On the present trajectory, 2019-nCoV could be about to become a global epidemic in the absence of mitigation...substantial, even draconian measures that limit population mobility should be seriously and immediately considered in affected areas...” 🤢
+439
+4:37 PM - Jan 31, 2020
+Twitter Ads info and privacy
+255 people are talking about this
+But the 'smoking gun' in this case are pieces of the virus's genetic code that Indian researchers, led by Prashant Pradhan at the Indian Institute of Technology, found may have been 'embedded' from HIV, which belongs to an entirely different family of viruses.
+16. UPDATE ON 🦠 GENOME 🧬: a very intriguing new paper investigating the aforementioned mystery middle segment w/ “S” spike protein: likely origin from HIV. “Uncanny similarity of unique inserts in the 2019-nCoV spike protein to HIV-1 gp120 and Gag” from https://t.co/QAX3usr7vw pic.twitter.com/WeVA948xin
+— Dr. Eric Feigl-Ding (@DrEricDing) January 31, 2020
+17. ...WHOA- the authors said the finding was “Unexpectedly” related to genes from HIV virus. Notably there were 4 gene insertions (see figure in above post #16). And so, which HIV gene proteins were found in the new #coronarvirus? Gag protein and Gp120- key HIV proteins... pic.twitter.com/epN66WcObj
+— Dr. Eric Feigl-Ding (@DrEricDing) January 31, 2020
+18. Notably, in 🦠S 🧬, authors say for HIV🧬insertions: “Gag protein of HIV is involved in host membrane binding, packaging of the virus and for the formation of virus-like particles. Gp120 plays crucial role in recognizing the host cell by binding to the primary receptor CD4”
+— Dr. Eric Feigl-Ding (@DrEricDing) January 31, 2020
+19. Again, these are new express published findings and not peer reviewed yet. Let’s not draw conclusions yet. But evidence suggest that 2 different HIV genes 🧬 are present in the #coronarvirus S gene region (that didn’t map to any other coronavirus, according to other studies).
+— Dr. Eric Feigl-Ding (@DrEricDing) January 31, 2020
+20. Further the authors add that “This indicates that these insertions have been preferably acquired by the 2019-nCoV, providing it with additional survival and infectivity advantage. Delving deeper we found that these insertions were similar to HIV-1.” 🤔
+— Dr. Eric Feigl-Ding (@DrEricDing) January 31, 2020
+21. Paper piles on: “these 🧬insertions are present at binding site of 2019-nCoV. Due to presence of gp120 motifs in 2019-nCoV spike glycoprotein at its binding domain, we propose that these motif insertions could have provided an enhanced affinity towards host cell receptors.”🤒
+— Dr. Eric Feigl-Ding (@DrEricDing) January 31, 2020
+22. The authors dunked this final conclusion: “This uncanny similarity of novel inserts in the 2019- nCoV spike protein to HIV-1 gp120 and Gag is unlikely to be fortuitous”. Wow, they sure just went straight there! 😱 What a bold paper... I don’t know what to say 🤷🏻‍♂️ pic.twitter.com/KWcDdknMO4
+— Dr. Eric Feigl-Ding (@DrEricDing) January 31, 2020
+NEVER MISS THE NEWS THAT MATTERS MOST
+ZEROHEDGE DIRECTLY TO YOUR INBOX
+Receive a daily recap featuring a curated list of must-read stories.
+Your email...
+The punchline:
+
+Eric Feigl-Ding
+@DrEricDing
+Replying to @DrEricDing
+9. BOTTOMLINE: 1) Seafood market not the source. 2) This RNA #coronavirus mutates really fast. 3) 🧬 has unusual middle segment never seen before in any coronavirus. 4) Not from recent mixing. 5) That mystery middle segment encodes protein responsible for entry into host cells.
+3,050
+4:15 AM - Jan 28, 2020
+Twitter Ads info and privacy
+2,064 people are talking about this
+To be sure, Dr. Feigl-Ding insists that he's not trying to promote any 'conspiracies' about the virus being a bioweapon developed by the Chinese, although it is difficult to find a proper name for what appears to be an artificial, weaponized virus.
+
+Eric Feigl-Ding
+@DrEricDing
+Replying to @DrEricDing
+10. TO BE CLEAR: I am absolutely not saying it’s bioengineering, nor am I supporting any conspiracy theories with no evidence. I’m simply saying scientists need to do more research + get more data. And finding the origin of the virus is an important research priority. Goodnight😴
+Embedded video
+1,757
+4:24 AM - Jan 28, 2020
+Twitter Ads info and privacy
+649 people are talking about this
+Another doctor chimed in with what he thought was a solid explanation for the virus's irregularities...
+
+Shankara
+@fondoflinux
+Dr. @ARanganathan72  might explain. https://twitter.com/MRVChennai/status/1223092872095752192 …
+MRV
+@MRVChennai
+I guess Corona virus is some bio synthetic weaponry that has exploded. In the alternative it is a mutant form of a deadly virus. Any one in the know can explain.
+309
+10:34 AM - Jan 31, 2020
+Twitter Ads info and privacy
+130 people are talking about this
+
+Anand Ranganathan
+✔
+@ARanganathan72
+Replying to @fondoflinux
+Sure. 2019-nCoV is a +ve strand RNA virus that enters human cell and first encodes its RNA-replicase to make -ve stranded RNA that serves a template to make +ve strand RNA that is then translated for daughter nCoV. Drugs Lopinavir and Remdesivir target its protease and replicase.
+1,895
+11:19 AM - Jan 31, 2020
+Twitter Ads info and privacy
+836 people are talking about this
+...Until he realized something disturbing.
+Oh my god. Indian scientists have just found HIV (AIDS) virus-like insertions in the 2019-nCov virus that are not found in any other coronavirus. They hint at the possibility that this Chinese virus was designed ["not fortuitous']. Scary if true. https://t.co/h6xPX1gYvj pic.twitter.com/kCpd1I00uE
+— Anand Ranganathan (@ARanganathan72) January 31, 2020
+"Scary"... but relax, it's just another ridiculous "conspiracy."

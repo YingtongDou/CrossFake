@@ -1,0 +1,13 @@
+In just six months, the world’s largest randomized control trial on COVID-19 therapeutics has generated conclusive evidence on the effectiveness of repurposed drugs for the treatment of COVID-19.
+
+Interim results from the Solidarity Therapeutics Trial, coordinated by the World Health Organization, indicate that remdesivir, hydroxychloroquine, lopinavir/ritonavir and interferon regimens appeared to have little or no effect on 28-day mortality or the in-hospital course of COVID-19 among hospitalized patients.
+
+The study, which spans more than 30 countries, looked at the effects of these treatments on overall mortality, initiation of ventilation, and duration of hospital stay in hospitalized patients. Other uses of the drugs, for example in treatment of patients in the community or for prevention, would have to be examined using different trials.
+
+The progress achieved by the Solidarity Therapeutics Trial shows that large international trials are possible, even during a pandemic, and offer the promise of quickly and reliably answering critical public health questions concerning therapeutics.
+
+The results of the trial are under review for publication in a medical journal and have been uploaded as preprint at medRxiv available at this link: https://www.medrxiv.org/content/10.1101/2020.10.15.20209817v1
+
+The global platform of the Solidarity Trial is ready to rapidly evaluate promising new treatment options, with nearly 500 hospitals open as trial sites.
+
+Newer antiviral drugs, immunomodulators and anti-SARS COV-2 monoclonal antibodies are now being considered for evaluation. 

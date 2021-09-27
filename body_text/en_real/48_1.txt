@@ -1,0 +1,51 @@
+NIH RADx initiative advances six new COVID-19 testing technologies
+
+The National Institutes of Health, working in collaboration with the Biomedical Advanced Research and Development Authority (BARDA), today announced a third round of contract awards for scale-up and manufacturing of new COVID-19 testing technologies. The six new Rapid Acceleration of Diagnostics (RADx) initiative contracts total $98.35 million for point-of-care and other novel test approaches that provide new modes of sample collection, processing and return of results. Innovations in these new technologies include integration with smart devices, mobile-lab processing that can be deployed to COVID-19 hot spots, and test results available within minutes.
+
+These awards are part of the RADx Tech program, focused on rapidly advancing early testing technologies. RADx Tech and the RADx Advanced Technology Platforms (RADx-ATP) —the latter for late-stage scale-up projects— are now supporting a combined portfolio of 22 companies for a total of $476.4 million in manufacturing expansion contracts. These six additional technologies are expected to add as many as 500,000 tests per day to the U.S. capacity by the end of 2020 and 1 million tests per day by early 2021. Combined with previous contracts announced in July and September, RADx Tech and RADx-ATP contracts are expected to increase test capacity by 2.7 million tests per day by the end of 2020.
+
+“Since launching in April, the NIH RADx initiative has moved swiftly to facilitate critical expansion of early and late-stage testing technologies as well as research to remove barriers to testing for underserved and vulnerable populations,” said NIH Director Francis S. Collins, M.D., Ph.D. “Each of the technologies emerging from the RADx initiative will play a critical role in extending accessibility to testing in diverse settings.”
+
+The latest group of testing technologies have been optimized and assessed within the NIH RADx Tech development pipeline and have met the rigorous criteria for advancement. Factors such as speed, accuracy, cost and accessibility are key considerations for RADx support. The RADx initiative provides financial support and expertise to help companies reach milestones for U.S. Food and Drug Administration authorization, scale-up and commercialization.
+
+“The current round of awards support five technologies that can be delivered to the point of care and a powerful laboratory test,” said Bruce J. Tromberg, Ph.D., director of the National Institute of Biomedical Imaging and Bioengineering (NIBIB) and lead for RADx Tech, one of four programs of the NIH RADx initiative. “The technologies include an antigen test that provides results in 15 minutes, a viral RNA test deployed in mobile vans that can travel to COVID hotspots and tests that require only saliva, nasal swabs or blood from a finger prick.”
+
+BARDA, part of the Office of the Assistant Secretary for Preparedness and Response within the U.S. Department of Health and Human Services, provided the funding for these RADx Tech contracts from emergency supplemental appropriations to the Public Health and Social Services Emergency Fund.
+
+BARDA has contributed substantially to the nation’s COVID testing capacity with development support of 30 SARS-COV-2 diagnostic tests since March, 15 of which have achieved FDA emergency use authorization (EUA). Five of the 30 tests can distinguish between influenza and SARS-COV-2, the virus that causes COVID-19, from the same sample, and two of those have achieved EUA. To date, BARDA’s industry partners have shipped more than 45 million tests to healthcare providers across the country.
+
+“Through the RADx initiative, we are expanding on our long-standing partnership with NIH to bring essential technology to the American people in the fight against COVID-19,” said BARDA Acting Director Gary L. Disbrow, Ph.D. “Our staff at BARDA is lending our expertise and experience in advanced development, manufacturing and scale up to help make as many accurate, fast tests available as we can as quickly as possible.” 
+
+The following companies have achieved key RADx Tech milestones and will receive support for manufacturing and scale up:
+
+Viral Antigen detection
+Ellume USA LLC, Valencia, California
+
+Two unique test cartridges contain a single-use, digital fluorescent immunoassay antigen test that returns accurate results in 15 minutes or less. One cartridge testing nasal swabs can be read out on two platforms by healthcare professionals, at the point of care or in laboratory settings for higher throughput. A second cartridge is being developed for home use with a self-administered nasal swab.
+
+Luminostics, Inc., Milpitas, California
+
+A rapid, smartphone-readout, antigen immunoassay that uses glow-in-the-dark nanomaterials to sensitively and specifically detect SARS-CoV-2 from shallow nasal swabs in 30 minutes or less, first for point-of-care use and later for home use.
+
+Quanterix, Billerica, Massachusetts
+
+A laboratory antigen test with ultra-sensitive single-molecule immunoassay technology to enable detection from a variety of sample types including nasopharyngeal, saliva or self-acquired blood from a finger prick. Sample collection, transport, and processing will occur within 24-48 hours using existing sample collection logistics infrastructure through a network of centralized labs.
+
+Viral RNA detection
+Flambeau Diagnostics, Madison, Wisconsin
+
+A lab module that can be deployed in a mobile van to screen asymptomatic individuals to detect SARS-CoV-2 at low viral levels in saliva samples, returning results in as little as one hour. The system can serve employers, schools and underserved populations. It uses new extraction technology to purify and concentrate viral RNA reliably and quickly.
+
+Ubiquitome, Auckland, New Zealand
+
+A battery-operated, mobile RT-PCR device that detects viral RNA with high accuracy in 40 minutes and reports results via its proprietary iPhone app. It offers high throughput and could be much lower cost than lab-based RT-PCR tests. The device is targeted for use in rural and metropolitan hospitals and mobile labs.
+
+Visby Medical, San Jose, California
+
+A palm-sized, single-use RT-PCR device that detects viral RNA with highly accurate results at the point of care in 30 minutes. The device was designed to be used by a person with minimal skills. This novel, versatile technology platform can also be adapted to provide simple, rapid tests for other diseases such as chlamydia, gonorrhea, and influenza.
+
+About the Rapid Acceleration of Diagnostics (RADx SM) initiative: The RADx initiative was launched on April 29, 2020, to speed innovation in the development, commercialization, and implementation of technologies for COVID-19 testing. The initiative has four programs: RADx Tech, RADx Advanced Technology Platforms, RADx Underserved Populations and RADx Radical. It leverages the existing NIH Point-of-Care Technology Research Network. The RADx initiative partners with federal agencies, including the Office of the Assistant Secretary of Health, Department of Defense, the Biomedical Advanced Research and Development Authority, and U.S. Food and Drug Administration. Learn more about the RADx initiative and its programs: https://www.nih.gov/radx.
+
+About HHS, ASPR, and BARDA: HHS works to enhance and protect the health and well-being of all Americans, providing for effective health and human services and fostering advances in medicine, public health, and social services. The mission of ASPR is to save lives and protect Americans from 21st century health security threats. Within ASPR, BARDA invests in the innovation, advanced research and development, acquisition, and manufacturing of medical countermeasures – vaccines, drugs, therapeutics, diagnostic tools, and non-pharmaceutical products needed to combat health security threats. To date, 55 BARDA-supported products have achieved FDA approval, licensure or clearance. For more on BARDA’s portfolio for COVID-19 diagnostics, vaccines and treatments and about partnering with BARDA, visit medicalcountermeasures.gov(link is external). To learn more about federal support for the all-of-America COVID-19 response, visit coronavirus.gov(link is external).
+
+About the National Institute of Biomedical Imaging and Bioengineering (NIBIB): NIBIB’s mission is to improve health by leading the development and accelerating the application of biomedical technologies. The Institute is committed to integrating the physical and engineering sciences with the life sciences to advance basic research and medical care. NIBIB supports emerging technology research and development within its internal laboratories and through grants, collaborations, and training. More information is available at the NIBIB website: https://www.nibib.nih.gov.

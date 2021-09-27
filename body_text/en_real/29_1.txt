@@ -1,0 +1,26 @@
+NIH clinical trial of investigational vaccine for COVID-19 begins
+Study enrolling Seattle-based healthy adult volunteers.
+
+A Phase 1 clinical trial evaluating an investigational vaccine designed to protect against coronavirus disease 2019 (COVID-19) has begun at Kaiser Permanente Washington Health Research Institute (KPWHRI) in Seattle. The National Institute of Allergy and Infectious Diseases (NIAID), part of the National Institutes of Health, is funding the trial. KPWHRI is part of NIAID’s Infectious Diseases Clinical Research Consortium. The open-label trial will enroll 45 healthy adult volunteers ages 18 to 55 years over approximately 6 weeks. The first participant received the investigational vaccine today.
+
+The study is evaluating different doses of the experimental vaccine for safety and its ability to induce an immune response in participants. This is the first of multiple steps in the clinical trial process for evaluating the potential benefit of the vaccine.
+
+The vaccine is called mRNA-1273 and was developed by NIAID scientists and their collaborators at the biotechnology company Moderna, Inc., based in Cambridge, Massachusetts. The Coalition for Epidemic Preparedness Innovations (CEPI) supported the manufacturing of the vaccine candidate for the Phase 1 clinical trial.
+
+“Finding a safe and effective vaccine to prevent infection with SARS-CoV-2 is an urgent public health priority,” said NIAID Director Anthony S. Fauci, M.D. “This Phase 1 study, launched in record speed, is an important first step toward achieving that goal.”
+
+Infection with SARS-CoV-2, the virus that causes COVID-19, can cause a mild to severe respiratory illness and include symptoms of fever, cough and shortness of breath. COVID-19 cases were first identified in December 2019 in Wuhan, Hubei Province, China. As of March 15, 2020, the World Health Organization (WHO)(link is external) has reported 153,517 cases of COVID-19 and 5,735 deaths worldwide. More than 2,800 confirmed COVID-19 cases and 58 deaths have been reported in the United States as of March 15, according to the Centers for Disease Control and Prevention (CDC)(link is external).
+
+Currently, no approved vaccines exist to prevent infection with SARS-CoV-2.
+
+The investigational vaccine was developed using a genetic platform called mRNA (messenger RNA). The investigational vaccine directs the body’s cells to express a virus protein that it is hoped will elicit a robust immune response. The mRNA-1273 vaccine has shown promise in animal models, and this is the first trial to examine it in humans.
+
+Scientists at NIAID’s Vaccine Research Center (VRC) and Moderna were able to quickly develop mRNA-1273 because of prior studies of related coronaviruses that cause severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). Coronaviruses are spherical and have spikes protruding from their surface, giving the particles a crown-like appearance. The spike binds to human cells, allowing the virus to gain entry. VRC and Moderna scientists already were working on an investigational MERS vaccine targeting the spike, which provided a head start for developing a vaccine candidate to protect against COVID-19. Once the genetic information of SARS-CoV-2 became available, the scientists quickly selected a sequence to express the stabilized spike protein of the virus in the existing mRNA platform.
+
+The Phase 1 trial is led by Lisa A. Jackson, M.D., senior investigator at KPWHRI. Study participants will receive two doses of the vaccine via intramuscular injection in the upper arm approximately 28 days apart. Each participant will be assigned to receive a 25 microgram (mcg), 100 mcg or 250 mcg dose at both vaccinations, with 15 people in each dose cohort. The first four participants will receive one injection with the low dose, and the next four participants will receive the 100 mcg dose. Investigators will review safety data before vaccinating the remaining participants in the 25 and 100 mcg dose groups and before participants receive their second vaccinations. Another safety review will be done before participants are enrolled in the 250 mcg cohort.
+
+Participants will be asked to return to the clinic for follow-up visits between vaccinations and for additional visits across the span of a year after the second shot. Clinicians will monitor participants for common vaccination symptoms, such as soreness at the injection site or fever as well as any other medical issues. A protocol team will meet regularly to review safety data, and a safety monitoring committee will also periodically review trial data and advise NIAID. Participants also will be asked to provide blood samples at specified time points, which investigators will test in the laboratory to detect and measure the immune response to the experimental vaccine.
+
+“This work is critical to national efforts to respond to the threat of this emerging virus,” Dr. Jackson said. “We are prepared to conduct this important trial because of our experience as an NIH clinical trials center since 2007.”
+
+Adults in the Seattle area who are interested in joining this study should visit https://corona.kpwashingtonresearch.org(link is external). For more information about the study, visit ClinicalTrials.gov and search identifier NCT04283461.

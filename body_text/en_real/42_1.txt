@@ -1,0 +1,8 @@
+NIH clinical trial testing remdesivir plus interferon beta-1a for COVID-19 treatment begins
+
+A randomized, controlled clinical trial evaluating the safety and efficacy of a treatment regimen consisting of the antiviral remdesivir plus the immunomodulator interferon beta-1a in patients with coronavirus disease 2019 (COVID-19) has begun. The study, called the Adaptive COVID-19 Treatment Trial 3 (ACTT 3), is anticipated to enroll more than 1,000 hospitalized adults with COVID-19 at as many as 100 sites in the United States and abroad. The National Institute of Allergy and Infectious Diseases (NIAID), part of the National Institutes of Health, is sponsoring the trial.
+
+Subcutaneous interferon beta-1a, a medication manufactured by Merck KGaA, Darmstadt, Germany, is approved in the U.S. and more than 90 other countries for the treatment of multiple sclerosis. The drug is marketed under the brand name Rebif by EMD Serono, the North American biopharmaceutical business of Merck KGaA, Darmstadt, Germany. Interferon beta-1a has the same amino acid sequence as a naturally occurring protein called interferon beta, which is part of a class of proteins called type 1 interferons. Infected cells normally produce type 1 interferons to help the immune system fight pathogens, especially viruses. Interferon beta has both antiviral and anti-inflammatory properties.
+
+
+An independent data and safety monitoring board (DSMB) will monitor ongoing results to ensure patient well-being and safety as well as study integrity. Preliminary results are expected in the fall of 2020.

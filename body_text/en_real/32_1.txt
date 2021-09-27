@@ -1,0 +1,21 @@
+Remdesivir prevents MERS coronavirus disease in monkeys
+
+Results support testing antiviral against 2019 novel coronavirus.
+
+The experimental antiviral remdesivir successfully prevented disease in rhesus macaques infected with Middle East respiratory syndrome coronavirus (MERS-CoV), according to a new study from National Institutes of Health scientists. Remdesivir prevented disease when administered before infection and improved the condition of macaques when given after the animals already were infected.
+
+The new report from NIH’s National Institute of Allergy and Infectious Diseases (NIAID) appears in the Proceedings of the National Academy of Sciences.
+
+MERS-CoV is closely related to the 2019 novel coronavirus (2019-nCoV) that has grown to be a global public health emergency since cases were first detected in Wuhan, China, in December.  
+
+Remdesivir has previously protected animals against a variety of viruses in lab experiments. The drug has been shown experimentally to effectively treat monkeys infected with Ebola and Nipah viruses. Remdesivir also has been investigated as a treatment for Ebola virus disease in people.
+
+The current study was conducted at NIAID’s Rocky Mountain Laboratories in Hamilton, Montana. The work involved three groups of animals: those treated with remdesivir 24 hours before infection with MERS-CoV; those treated 12 hours after infection (close to the peak time for MERS-CoV replication in these animals); and untreated control animals.
+
+The scientists observed the animals for six days. All control animals showed signs of respiratory disease. Animals treated before infection fared well: no signs of respiratory disease, significantly lower levels of virus replication in the lungs compared to control animals, and no lung damage. Animals treated after infection fared significantly better than the control animals: disease was less severe than in control animals, their lungs had lower levels of virus than the control animals, and the damage to the lungs was less severe.
+
+The scientists indicate that the promising study results support additional clinical trials of remdesivir for MERS-CoV and 2019-nCoV. At least two clinical trials of remdesivir for 2019-nCoV are under way in China, and other patients with 2019-nCoV infection have received the drug under a compassionate use protocol.
+
+The Biomedical Advanced Research and Development Authority (BARDA), part of the U.S. Department of Health and Human Services, also provided support for this study. Gilead Sciences, Inc., developed remdesivir, also known as GS-5734, and collaborated in the research.
+
+MERS-CoV emerged in Saudi Arabia in 2012. Through December 2019, the World Health Organization had confirmed 2,499 MERS-CoV cases and 861 deaths (or about 1 in 3). Because about one-third of MERS-CoV cases spread from infected people being treated in healthcare settings, the scientists suggest that remdesivir could effectively prevent disease in other patients, contacts of patients, and healthcare workers. They also note the drug might help patients who are diagnosed with MERS or 2019-nCoV if given soon after symptoms start.

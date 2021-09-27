@@ -1,0 +1,85 @@
+Archived: WHO Timeline - COVID-19
+
+This statement is no longer maintained. An updated version was published on 29 June 2020. 
+
+31 Dec 2019
+
+Wuhan Municipal Health Commission, China, reported a cluster of cases of pneumonia in Wuhan, Hubei Province. A novel coronavirus was eventually identified.
+
+1 January 2020
+
+WHO had set up the IMST (Incident Management Support Team) across the three levels of the organization: headquarters, regional headquarters and country level, putting the organization on an emergency footing for dealing with the outbreak.
+
+4  January 2020
+
+WHO reported on social media that there was a cluster of pneumonia cases – with no deaths – in Wuhan, Hubei province. 
+
+5 January 2020
+
+WHO published our first Disease Outbreak News on the new virus. This is a flagship technical publication to the scientific and public health community as well as global media. It contained a risk assessment and advice, and reported on what China had told the organization about the status of patients and the public health response on the cluster of pneumonia cases in Wuhan.
+
+10 January 2020
+
+WHO issued a comprehensive package of technical guidance online with advice to all countries on how to detect, test and manage potential cases, based on what was known about the virus at the time. This guidance was shared with WHO's regional emergency directors to share with WHO representatives in countries. 
+
+Based on experience with SARS and MERS and known modes of transmission of respiratory viruses, infection and prevention control guidance were published to protect health workers recommending droplet and contact precautions when caring for patients, and airborne precautions for aerosol generating procedures conducted by health workers.
+
+12 January 2020
+
+China publicly shared the genetic sequence of COVID-19. 
+
+13 January 2020
+
+Officials confirm a case of COVID-19 in Thailand, the first recorded case outside of China.  
+
+14 January 2020
+
+WHO's technical lead for the response noted in a press briefing there may have been limited human-to-human transmission of the coronavirus (in the 41 confirmed cases), mainly through family members, and that there was a risk of a possible wider outbreak. The lead also said that human-to-human transmission would not be surprising given our experience with SARS, MERS and other respiratory pathogens.  
+
+20-21 January 2020
+
+WHO experts from its China and Western Pacific regional offices conducted a brief field visit to Wuhan.
+
+22 January 2020
+
+WHO mission to China issued a statement saying that there was evidence of human-to-human transmission in Wuhan but more investigation was needed to understand the full extent of transmission.
+
+22- 23 January 2020
+
+The WHO Director- General convened an Emergency Committee (EC) under the International Health Regulations (IHR 2005) to assess whether the outbreak constituted a public health emergency of international concern. The independent members from around the world could not reach a consensus based on the evidence available at the time. They asked to be reconvened within 10 days after receiving more information.
+
+28 January 2020
+
+A senior WHO delegation led by the Director-General travelled to Beijing to meet China’s leadership, learn more about China’s response, and to offer any technical assistance. 
+
+While in Beijing, Dr. Tedros agreed with Chinese government leaders that an international team of leading scientists would travel to China on a mission to better understand the context, the overall response, and exchange information and experience.
+
+30 January 2020
+
+The WHO Director-General reconvened the Emergency Committee (EC). This was earlier than the 10-day period and only two days after the first reports of limited human-to-human transmission were reported outside China. This time, the EC reached consensus and advised the Director-General that the outbreak constituted a Public Health Emergency of International Concern (PHEIC). The Director-General accepted the recommendation and declared the novel coronavirus outbreak (2019-nCoV) a PHEIC. This is the 6th time WHO has declared a PHEIC since the International Health Regulations (IHR) came into force in 2005.
+
+WHO’s situation report for 30 January reported 7818 total confirmed cases worldwide, with the majority of these in China, and 82 cases reported in 18 countries outside China. WHO gave a risk assessment of very high for China, and high at the global level.
+
+3 February 2020 
+
+WHO releases the international community's Strategic Preparedness and Response Plan to help protect states with weaker health systems. 
+
+11-12 February 2020
+
+WHO convened a Research and Innovation Forum on COVID-19, attended by more than 400 experts and funders from around the world, which included presentations by George Gao, Director General of China CDC, and Zunyou Wu, China CDC's chief epidemiologist. 
+
+16-24 February 2020
+
+The WHO-China Joint mission, which included experts from Canada, Germany, Japan, Nigeria, Republic of Korea, Russia, Singapore and the US (CDC, NIH) spent time in Beijing and also travelled to Wuhan and two other cities. They spoke with health officials, scientists and health workers in health facilities (maintaining physical distancing). The report of the joint mission can be found here: https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf 
+
+11 March 2020
+
+Deeply concerned both by the alarming levels of spread and severity, and by the alarming levels of inaction, WHO made the assessment that COVID-19 can be characterized as a pandemic.
+
+13 March 2020
+
+COVID-19 Solidarity Response Fund launched to receive donations from private individuals, corporations and institutions. 
+
+18 March 2020
+
+WHO and partners launch the Solidarity Trial, an international clinical trial that aims to generate robust data from around the world to find the most effective treatments for COVID-19. 

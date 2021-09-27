@@ -1,0 +1,24 @@
+新冠肺炎（COVID-19）疫情目前在全世界蔓延，到2020年5月25日北京时间8：00为止，中国已经有超过8.4万人感染，4645人因此病去世。中国之外的数据更加震撼——全球已经有180多个国家超过540万人感染，已有341000多人因此丧生。
+虽然中国提前2个月向全世界发出预警并且尽全力做好隔离，救治所有感染者，追溯疑似感染者等一系列强有力的措施避免疫情进一步扩散，但是当中国的疫情在慢慢好转时，狡猾的新冠病毒（SARS-CoV-2）早已在其他国家悄悄蔓延。全世界的医药科研工作者都肩负着对于新冠肺炎预防和治疗的责任，这是一项需要所有研究者携手合作，共同努力克服一切困难的工作，需要及时分享研究成果，互相提供尽可能的帮助，及时探讨并交流意见。目前，关于橘子皮（橙皮）可以用于新冠病毒防治的讨论正在中美科学家之间展开。如本人上一篇文章所说，虽然中国科学家面临的“三缺”问题比美国严重得多，但是这些问题好像不构成让我们的科学家们不努力创造的绝大障碍。
+此前，华中科技大学同济药学院李华教授和沈阳药科大学无涯创新学院陈丽霞教授合作发表在《药学学报》英文版的文章“Analysis of therapeutic targets for SARS-CoV-2 and discovery of potential drugs by computational methods”通过计算机虚拟筛选方法发现橙皮苷可能通过结合在新冠病毒S蛋白受体结合结构域（RBD）从而破坏RBD与ACE2（新冠病毒的人类受体）的相互作用，这是研究者在ZINC药物数据库和中药、天然产物数据中筛选得到的唯一一个能够靶向在S蛋白和ACE结合界面的化合物，另外橙皮苷与病毒的3C样蛋白酶也有非常好的结合亲和力[1]。柑橘类的果皮富含橙皮苷，包括传统中药陈皮和广陈皮，富含橙皮苷的中药还有橘红和化橘红等。陈皮和化橘红是《新型冠状病毒肺炎诊疗方案（试行第七版）》中医药部分推荐的中药复方中的主要药材之一［2］。
+
+橙皮苷与新冠病毒S蛋白RBD低能量结合构象[1]
+ 美国宾夕法尼亚大学的Jeff Gruneich博士对于李华教授等关于橙皮苷的研究非常感兴趣，因此对于橙皮苷潜在的靶向冠状病毒关键靶标的研究，有效性安全性，生物利用度，剂量等进行了大量的文献调研，将调研结果通过邮件的方式分享给包括李华教授在内的各国科学家，希望能够进行深度的探讨并得到一些建议。
+Jeff Gruneich博士表示，橙皮素是黄烷酮橙皮苷的主要代谢产物，在橙皮和橘皮中大量存在。橙皮素在细胞培养中能够以剂量依赖性地方式抑制SARS冠状病毒3C样蛋白酶的裂解活性(IC50为8.3μM) [3]。另两项分子对接研究也表明橙皮苷与3C样蛋白酶[4,5,6]，S蛋白RBD和ACE2[4]有非常高的结合亲和力。Jeff Gruneich博士通过调研文献发现，喝0.5L或1L含有444mg/L橙皮苷的橙汁，橙皮素的峰值血浆浓度在5-7小时内分别达到0.5或1.3μM[7]。按照此计算，每天需要喝6-7L橙汁才能使橙皮素的血浆浓度达到8.3 uM，或者，每天需要吃25个橙子（不含皮），两者都是不切实际的。但是一些柑橘类水果的果皮中含有1-2g橙皮苷[7]。假设一个成年男性的体重约为100kg或者更少，水大约占体重的60％，所以是60L水,要在60L中使橙皮素的浓度达到8.3uM，需要498 uM。假设肠道中从橙皮苷到橙皮素的转化率为100%，则需要304mg橙皮苷。每个橙子的果皮中含有约1.4g橙皮苷，足够将浓度达到8.3uM。每天将一到两个橙子（含皮）用搅拌器磨碎成果汁，将提供足够的橙皮素来抑制COVID-19，并且还有助于抑制由于免疫反应和其他原因引起的其他下游病理改变。这对于普通人来说非常容易做到，快捷便宜并且没有任何不良反应，可以立即广泛应用并及时观察效果。橙皮以及橙皮苷和橙皮素的化学结构和它们的可能三维结构如下：
+
+ 
+李华教授认为，Jeff Gruneich博士的想法是符合逻辑的，橘皮（橙皮）基本无毒性，而且橘皮实际上是中国非常常见的食品和中药，加糖浸过的橘皮非常美味，并对抑制COVID-19具有潜在的良好作用，值得尝试。另外，吃以果皮为主要食用部分的金桔也是一种不错的选择。
+同时华中农业大学的马兆成教授也表示，在用于COVID-19治疗的中药处方指南中涉及到了陈皮，其在临床上具有缓解咳嗽的作用。在日常生活中，将带有果皮的橙子等用搅拌器切碎的一起吃是一种非常实用的方法，还可以尝试将其他几种中药（例如甘草，黄芪和升麻等）混合饮用。最后他推荐了一个已经被证明有效的中药组方：柴胡、黄芪、升麻、天麻、木香、黄芩、人参、牛膝、半夏、甘草（烤）、干姜、红枣。
+Jeff Gruneich博士对于各位教授的回信表示了感谢，并说他的妻子是一名药剂师，在上海长大，他们会定期将橙皮泡在茶中饮用。同时Jeff Gruneich博士认为西兰花和洋葱等蔬菜也含有与橙皮素类似的类黄酮化合物，例如槲皮素，它们也能够抑制病毒，这些并不贵的蔬菜很容易供应给后面几周内可能感染的数百万人食用。Jeff Gruneich博士也表示，他将进一步推动橙皮苷的抗新冠病毒临床研究。
+这次中美科学家之间的探讨很有意义，传统中药此次在抗击新冠疫情中发挥了非常重要的作用，陈皮（橘皮/橙皮）作为中药的代表受到了美国科研工作者的关注并且将向更多人推广，这对于传统中药向全世界传播起到了积极的作用。
+
+参考文献：
+[1] Wu, C.R., Liu, Y., Yang,Y.Y., Zhang, P., Zhong, W., Wang, Y.L., Wang, Q.Q., Xu, Y., Li, M.X., Li, X.Z.,Li, H. Analysis of therapeutic targets for SARS-CoV-2 and discovery of potential drugs by computational methods. Acta Pharmaceutica Sinica B. 2020. https://doi.org/10.1016/j.apsb.2020.02.008.
+[2]《新型冠状病毒肺炎诊疗方案（试行第七版）》, 2020, http://www.nhc.gov.cn/yzygj/s7653p/202003/46c9294a7dfe4cef80dc7f5912eb1989/files/ce3e6945832a438eaae415350a8ce964.pdf
+[3] Lin, C.W., Tsai, F.J., Tsai, C.H., Lai, C.C., Wan, L., Ho,T.Y., Hsieh, C.C., Chao, P.D. Anti-SARS coronavirus 3C-like protease effects of Isatis indigotica root and plant-derived phenolic compounds. Antiviral Res. 2005; 68(1): 36-42.
+[4] Utomo, R.Y., Ikawati, M., Meiyanto, E. Revealing the Potency of Citrus andGalangal Constituents to Halt SARS-CoV-2 Infection. Preprints. 2020. https://www.preprints.org/manuscript/202003.0214/v1
+[5] Adem,S., Eyupoglu, V., Sarfraz, I., Rasul, A., Ali, M. Identification of PotentCOVID-19 Main Protease (Mpro) Inhibitors from Natural Polyphenols: An in Silico Strategy Unveils a Hope against CORONA.Preprints. 2020. https://www.preprints.org/manuscript/202003.0333/v1.
+[6] Manach, C., Morand, C., Gil-Izquierdo, A., Bouteloup-Demange,C., Rémésy, C. Bioavailability in humans of the flavanones hesperidin and narirutin after the ingestion of two doses of orange juice. Eur J Clin Nutr.2003; 57(2): 235-242.
+[7] Nogata, Y., Sakamoto, K., Shiratsuchi, H., Ishii, T., Yano,M., Ohta, H. Flavonoid composition of fruit tissues of citrus species. Biosci Biotechnol Biochem. 2006; 70(1): 178-192.
+ 
+文章来源：观察者网
