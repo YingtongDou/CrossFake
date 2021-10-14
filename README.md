@@ -27,29 +27,29 @@ The metadata of our dataset can be found at CrossFake_metadata.xlsx, which inclu
 
 - Column A (id):
 
-   News ids. Chinese real & fake news is annotated according to existing English fact-checking information. Thus, each piece of English news may correspond to multiple pieces of Chinese news from different sources. For example, in news_fake sheet, the ids 1_1 and 1_2 indicate one piece of English news and it corresponds two pieces of Chinese news.
+    News ids. Chinese real & fake news is annotated according to existing English fact-checking information. Thus, each piece of English news may correspond to multiple pieces of Chinese news from different sources. For example, in news_fake sheet, the ids 1_1 and 1_2 indicate one piece of English news and it corresponds two pieces of Chinese news.
 
 - Column B (fact_check_url):
 
-The fact check url of English news. 
+    The fact check url of English news. 
 
 - Column C (type):
 
-The type of news. “Post” and “article” indicates the news is from social media posts or website articles, respectively.
+    The type of news. “Post” and “article” indicates the news is from social media posts or website articles, respectively.
 
 - Column D (source):
 
-The source of news. “Personal” and “professional” indicates the news is from personal account or professional source (WHO, NIH, etc.), respectively.
+    The source of news. “Personal” and “professional” indicates the news is from personal account or professional source (WHO, NIH, etc.), respectively.
 
 - Column E (mixed?):
 
 - Column F (platform):
 
-The platform where the news published.
+    The platform where the news published.
 
 - Column H (archive):
 
-Links to archived news. To permanently store the original news, we archived the news sites data. 
+    Links to archived news. To permanently store the original news, we archived the news sites data. 
 
 - Columns K to R has the same meanings to Columns C to J but they indicate the information of Chinese news.
 
