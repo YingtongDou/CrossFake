@@ -12,6 +12,11 @@ The COVID-19 pandemic poses a great threat to global public health. Meanwhile, t
 ## Dataset Stats
 
 a table with data stats
+The table below shows the dataset stats:
+| Lang. | Fake | Real | Total |
+|-------|------|------|-------|
+| ENG   | 55   | 82   | 137   |
+| CHN   | 101  | 118  | 219   |
 
 introduce the repo structure
 
