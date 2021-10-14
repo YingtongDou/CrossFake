@@ -51,7 +51,7 @@ The metadata of our dataset can be found at CrossFake_metadata.xlsx, which inclu
 
     Links to archived news. To permanently store the original news, we archived the news sites data. 
 
-- Columns K to R has the same meanings to Columns C to J but they indicate the information of Chinese news.
+- Columns K to R have the same meanings to Columns C to J but they indicate the information of Chinese news.
 
 
 ## Potential Usage
