@@ -23,11 +23,11 @@ introduce the repo structure
 
 ~~introduce the meaning of each column~~
 
-The metadata of our dataset can be found at CrossFake_metadata.xlsx, which includes two sheets (news_fake and news_real). Here are explanations of some column:
+The metadata of our dataset can be found at CrossFake_metadata.xlsx, which includes two sheets (news_fake and news_real). Here are explanations of some columns:
 
 - Column A (id):
 
-News ids. Chinese real & fake news is annotated according to existing English fact-checking information. Thus, each piece of English news may correspond to multiple pieces of Chinese news from different sources. For example, in news_fake sheet, the ids 1_1 and 1_2 indicate one piece of English news and it corresponds two pieces of Chinese news.
+   News ids. Chinese real & fake news is annotated according to existing English fact-checking information. Thus, each piece of English news may correspond to multiple pieces of Chinese news from different sources. For example, in news_fake sheet, the ids 1_1 and 1_2 indicate one piece of English news and it corresponds two pieces of Chinese news.
 
 - Column B (fact_check_url):
 
