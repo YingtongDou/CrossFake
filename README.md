@@ -9,7 +9,7 @@ The COVID-19 pandemic poses a significant threat to global public health. Meanwh
 
 In the above paper, we make the first attempt to detect COVID-19 misinformation in a low-resource language (Chinese) only using the fact-checked news in a high-resource language (English).
 
-This repo contains a Chinese-English real & fake news dataset according to existing English fact-checking information. Details on this dataset are described in [Dataset Stats](#dataset-stats).
+This repo contains a Chinese-English real & fake news dataset according to existing English fact-checking information. Details on this dataset are described in [Dataset Detail](#dataset-detail).
 
 The highlights of our dataset are as follows:
 
